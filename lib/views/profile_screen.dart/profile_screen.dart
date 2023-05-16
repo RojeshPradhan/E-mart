@@ -34,6 +34,7 @@ class ProfileScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   "Sugafree".text.fontFamily(semibold).white.make(),
+                  "Sugafree@example.com".text.white.make(),
                   "Sugafree@example.com".text.white.make()
                 ],
               )),
